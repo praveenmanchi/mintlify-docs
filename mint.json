@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Design Board",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -9,70 +9,96 @@
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
-    "dark": "#0D9373",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
-    }
+    "dark": "#0D9373"
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "https://p7i6f7zcpar.typeform.com/to/o2WbaXpx"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Crafted by Praveen Manchi",
+    "url": "https://praveenmanchi.art"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "UX methods",
+      "url": "UX-methods"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Useful links",
+      "url": "useful-links"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "UX designing",
+      "url": "ux-designing"
+    },
+    {
+      "name": "UI designing",
+      "url": "ui-designing"
+    },
+    {
+      "name": "HIM designing",
+      "url": "him-designing"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
-    },
-    {
-      "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
-    },
-    {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
-    },
-    {
-      "group": "Endpoint Examples",
+      "group": "Get started",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "Get_started/He",
+        "Get_started/she",
+        "Get_started/heushe"
+      ]
+    },
+    {
+      "group": "UX-methods",
+      "pages": [
+        "UX-methods/He",
+        "UX-methods/she",
+        "UX-methods/heushe"
+      ]
+    },
+    {
+      "group": "useful-links",
+      "pages": [
+        "useful-links/random_page_1",
+        "useful-links/random_page_2",
+        "useful-links/random_page_3"
+      ]
+    },
+    {
+      "group": "ux-designing",
+      "pages": [
+        "ux-designing/random_page_1",
+        "ux-designing/random_page_2",
+        "ux-designing/random_page_3"
+      ]
+    },
+    {
+      "group": "ui-designing",
+      "pages": [
+        "ui-designing/random_page_1",
+        "ui-designing/random_page_2",
+        "ui-designing/random_page_3"
+      ]
+    },
+    {
+      "group": "him-designing",
+      "pages": [
+        "him-designing/hello",
+        "him-designing/hero",
+        "him-designing/madam"
       ]
     }
   ],
+  "primaryTab": {
+    "name": "Get started"
+  },
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "github": "https://github.com/praveenmanchi",
+    "linkedin": "https://www.linkedin.com/praveenmanchi",
+    "website": "https://praveenmanchi.art"
   }
 }
